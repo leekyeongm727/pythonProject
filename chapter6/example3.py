@@ -22,4 +22,5 @@ for x in range(n):
 print(result)
 
 end_time = time.time()
+
 print("time:", end_time-start_time)

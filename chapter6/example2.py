@@ -7,6 +7,7 @@ def setting(data):
     return data[1]
 
 array=[]
+
 for x in range(n):
     name,score = input().split()
     array.append((name, int(score)))
